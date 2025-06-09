@@ -1,0 +1,11 @@
+body{
+    background-color: darkgray;
+    font-size: 30;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 24;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    font-weight: bold;
+}
